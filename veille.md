@@ -23,6 +23,14 @@
 * https://hbr.org/
 * 
 
+## Creative ressources & communities 
+
+* http://www.awwwards.com/
+* http://www.fubiz.net/
+* https://dribbble.com/
+* https://www.behance.net/
+* http://codepen.io/
+
 ## Twitter feed 
 
 * @medialab
